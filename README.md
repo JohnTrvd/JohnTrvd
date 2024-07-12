@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @JohnTrvd
 - 👀 I’m interested in Anarchy
 - 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on Explosives.
+- 📫 How to reach me ...you can't.
 - ⚡ Fun fact: You are not your github profile.
 
 <!---
